@@ -1,0 +1,1 @@
+document.writeln("<a href='http://www.shangkangshipin.com/index.php?m=promote&v=stat&pid=38&id=19' target='_blank'><img src='http://www.shangkangshipin.com/uploadfile/2017/07/03/20170703103104ZbuIH7.png' alt='首页加盟大banner' /></a>");
