@@ -28,4 +28,5 @@ urlpatterns = [
     url(r'^join/', TemplateView.as_view(template_name="join/index.htm")),
     url(r'^about/', TemplateView.as_view(template_name="about/index.htm")),
     url(r'^news/', TemplateView.as_view(template_name="news/index.htm")),
+    url(r'^city/', TemplateView.as_view(template_name="city/index.htm")),
 ]
